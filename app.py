@@ -17,7 +17,7 @@ import pydeck as pdk
 st.set_page_config(layout="wide")
 
 # Add header image to the top of the page
-st.image("header.png")
+st.image("https://raw.githubusercontent.com/piersbatch/streamlit-data-superheroes-map/main/Header.png")
 
 # Streamlit app title
 # st.title("Snowflake Data Superheroes Map")
